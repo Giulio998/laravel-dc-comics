@@ -7,9 +7,11 @@
     {{-- Cross Site Request Forgering --}}
     @csrf 
 
+   
+
     <div class="mb-3">
       <label for="title" class="form-label">Titolo</label>
-      <input type="text" name="title" class="form-control" id="title" placeholder="Titolo della pasta">
+      <input type="text" name="title" class="form-control" id="title" placeholder="Titolo del fumetto">
     </div>
 
     <div class="mb-3">
